@@ -1,4 +1,4 @@
-<h1 style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">Hey There!</h1>
+***<h1>Hey There!</h1>***
 <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-08-02-at-6-10-23-am-1564740637.png" alt="alt text" width="200" height="200">
 
 I'm an IT Consultant, with preference on networking, and a touch of software development.
